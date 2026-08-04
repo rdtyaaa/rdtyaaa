@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Yoga%20Raditya&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Quality%20Assurance%20Engineer%20%7C%20Manual%20%26%20Automation%20Testing&descAlignY=55&descSize=16&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/rdtyaaa">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=650&lines=Testing+mobile+%26+web+apps+end-to-end+%F0%9F%93%B1;Automating+with+Tosca+%26+Selenium+%F0%9F%A4%96;This+repo+isn't+just+QA+%E2%80%94+it's+whatever+helps+me+grow+%F0%9F%9A%80;Information+Systems+grad+%7C+Telkom+University+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=650&lines=Testing+mobile+%26+web+apps+end-to-end+%F0%9F%93%B1;Automating+with+Tosca+%26+Selenium+%F0%9F%A4%96;This+repo+isn't+just+QA+%E2%80%94+it's+whatever+helps+me+grow+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
