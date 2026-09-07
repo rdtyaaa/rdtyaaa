@@ -125,8 +125,8 @@ The interesting stuff usually happens somewhere in between.
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=rdtyaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdtyaaa&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165em" src="https://github-stats-extended.vercel.app/api?username=rdtyaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rdtyaaa&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br>
 
