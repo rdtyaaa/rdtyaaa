@@ -1,112 +1,156 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Yoga%20Raditya&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Quality%20Assurance%20Engineer%20%7C%20Manual%20%26%20Automation%20Testing&descAlignY=55&descSize=16&animation=fadeIn" width="100%"/>
+# Hey, I'm Yoga 👋
 
-<a href="https://github.com/rdtyaaa">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=650&lines=Testing+mobile+%26+web+apps+end-to-end+%F0%9F%93%B1;Automating+with+Tosca+%26+Selenium+%F0%9F%A4%96;This+repo+isn't+just+QA+%E2%80%94+it's+whatever+helps+me+grow+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+### QA Engineer who somehow also enjoys building things that probably started with
+### *"hmm... bisa nggak ya kalau dibikin sendiri?"*
 
-<br/>
-
-<a href="https://linkedin.com/in/yogardtyaaa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:yogaradit123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/rdtyaaa"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+I work around **Software Quality**, **Automation**, **Web Development**, and **AI**.
+My background is in Information Systems, but I'm not really interested in staying inside one box.
+I like understanding how things work, breaking them, fixing them, and occasionally building my own version of them.
 
 </div>
 
-<br/>
+<br>
 
-## 👨🏻‍💻 About Me
+## 🧭 What I'm into
 
-```yaml
-name: "Yoga Raditya Nugraha Sukma Pradana"
-role: "Quality Assurance Engineer"
-location: "Jakarta, Indonesia"
-note: "This GitHub isn't a curated portfolio — it's a workspace for whatever helps me grow: QA tooling, web dev, side projects, experiments."
-```
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Results-driven QA Engineer with hands-on experience in **manual and automation testing** for mobile and web applications — from early development through production release. I've boosted release stability and cut test cycle time using **Tricentis Tosca** automation and Agile collaboration, backed by a technical foundation in Information Systems.
+### 🧪 Quality Assurance
+Manual testing, regression, smoke testing, API testing, and figuring out how to make software less painful to use.
 
-Beyond QA, I also enjoy building things — full-stack web apps, small tools, and experiments — so expect this profile to reflect a mix of testing work and whatever else I'm curious about at the moment.
+</td>
+<td width="50%" valign="top">
 
-<br/>
+### 🤖 AI & Automation
+LLMs, AI agents, automation workflows, and finding ways to let computers do the boring stuff.
 
-## 🛠 Tech Stack
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Building Stuff
+Web apps, APIs, internal tools, experiments, and random ideas that may or may not become actual products.
+
+</td>
+<td width="50%" valign="top">
+
+### 🏠 Smart Home & IoT
+Playing around with ESP32, smart devices, MQTT, automation, and personal AI projects.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🛠️ Tech I Use
+
+**Languages & Frameworks**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+**Testing**
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Katalon](https://img.shields.io/badge/Katalon-FC4C02?style=for-the-badge&logo=katalon&logoColor=white)
+![API Testing](https://img.shields.io/badge/API%20Testing-0052CC?style=for-the-badge&logo=swagger&logoColor=white)
+![Regression Testing](https://img.shields.io/badge/Regression%20Testing-4B0082?style=for-the-badge)
+![Smoke Testing](https://img.shields.io/badge/Smoke%20Testing-808000?style=for-the-badge)
+
+**Database**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**DevOps & Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+**AI / LLM**
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-8A2BE2?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-00A67E?style=for-the-badge)
+![AI Automation](https://img.shields.io/badge/AI%20Automation-FF4500?style=for-the-badge)
+
+<br>
+
+## 📈 Currently Learning
+
+I'm exploring the intersection between:
 
 <div align="center">
 
-**QA & Testing**
-
-<img src="https://img.shields.io/badge/Tricentis%20Tosca-004B87?style=flat-square"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
-
-**Web Development**
-
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-
-**Database & API**
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-
-**Tools & Collaboration**
-
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+**Software Quality × Development × AI × Automation**
 
 </div>
 
-<br/>
+I'm especially interested in how AI can be used to automate repetitive work, improve software quality, and make the development process smarter.
 
-## 🚀 Selected Projects
+Still learning, still experimenting, and occasionally wondering why something worked perfectly yesterday.
 
-- **AI-Powered E-Commerce Chatbot** — WhatsApp-integrated chatbot for TokoPoin, running local LLMs (DeepSeek-R1 & Llama 3.2) via Ollama with real-time WebSocket messaging; up to 95.84% response accuracy.
-- **PGII-Connect** — Web-based student registration system (Laravel + TailwindCSS + MySQL) with Midtrans payments and role-based access via Laravel Breeze.
-- **Medical Record Frontend Integration** — React.js UI integrated with a REST API and JWT auth for secure medical record access.
-- **Workwell** — Job search platform (Laravel + TailwindCSS + MySQL) with auth, job posting, search filters, and application management.
-- **Sahabat Shuttle App** — UI/UX design project for a shuttle service app, from wireframes to high-fidelity prototypes.
+<br>
 
-<br/>
+## 💬 A Little More
 
-## 📈 GitHub Stats
+I don't really believe you have to pick one identity in tech.
+
+> You can be a QA who codes.
+> A developer who cares about quality.
+> An engineer who experiments with AI.
+
+The interesting stuff usually happens somewhere in between.
+
+<br>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rdtyaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdtyaaa&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=rdtyaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdtyaaa&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rdtyaaa&theme=tokyonight&hide_border=true" height="170"/>
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rdtyaaa&theme=tokyonight&hide_border=true" />
 
 </div>
 
-<br/>
+<br>
 
-## 💡 Philosophy
+## 🚀 Let's Build Something
 
-> Great software isn't built by writing more code.
-> It's built by understanding users, preventing failures, and continuously improving.
+If you're working on something interesting, feel free to say hi.
 
-<br/>
-
-## 🤝 Let's Connect
-
-Open to talk about **QA & Test Automation**, **Web Development**, or anything tech-related — feel free to reach out.
-
-<br/>
+> *"I have an idea..."* is usually a good place to start.
 
 <div align="center">
 
-⭐ If something here is useful to you, feel free to give it a star.
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogaradit123@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogardtyaaa/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=100&section=footer" width="100%"/>
+</div>
 
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
