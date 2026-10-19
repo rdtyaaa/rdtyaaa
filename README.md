@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Yoga 👋
+# Hey, I'm Radityaaa 👋
 
 ### QA Engineer who somehow also enjoys building things that probably started with
 ### *"hmm... bisa nggak ya kalau dibikin sendiri?"*
